@@ -1,12 +1,12 @@
-# Hi, I'm Suhashini 👋
+# Hi, I'm Suhashini 
 
-🎓 ECE Undergraduate
+ ECE Undergraduate
 
 ## About Me
-- 🌱 Currently learning C Programming and Data Structures
-- ⚡ Interested in Embedded Systems and VLSI
-- 🎯 GATE Aspirant
-- 💡 Exploring Electronics and Semiconductor Technologies
+-  Currently learning C Programming and Data Structures
+-  Interested in Embedded Systems and VLSI
+-  GATE Aspirant
+-  Exploring Electronics and Semiconductor Technologies
 
 ## Goals
 - Build meaningful engineering projects
